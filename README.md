@@ -10,6 +10,12 @@
 
 ### News About MegaMedusa :
 - https://www.radware.com/blog/security/2024/08/megamedusa-rippersec-public-web-ddos-attack-tool/
+- https://gbhackers.com/megamedusa-ddos-attack-tool/
+- https://cyberpress.org/the-ddos-tool-taking-the-hacker-world-by-storm/?amp=1
+- https://youtu.be/xGDqfAUwQ94?si=83fYcIl1MA0P2tfm
+- https://www.techtalkthai.com/learn-about-rippersec-ddos-attack-tool-megamedusa-by-radware/
+- https://diasp.org/posts/24304926
+- https://krofeksecurity.com/megamedusa-orodje-ddos-ki-v-svetu-hekerjev-vzbuja-vihar/
   
  ### Security that MegaMedusa can bypass :
 - UAM Challenges Bypass ✅
