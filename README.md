@@ -3,6 +3,8 @@
 ## MegaMedusa V3.2 Main Display :
  ![Main](maindisplay.jpg)
 
+## This Tool On Maintenance Mode
+
 ### What is MegaMedusa?
 - MegaMedusa is NodeJS DDoS Machine Layer-7 provided by RipperSec Team.
 
@@ -15,6 +17,9 @@
 - DDoS Guard Bypass ✅
 - vShield Website Bypass ✅
 - ShieldSquare Captcha Bypass ✅
+
+### MegaMedusa Domain Attack Blocked :
+- .my / .id / .go.id / .ir / .af / .bn / .sy / .ps / .jo
   
  ### Update v3.1 :
 - Lagging Fixed & More Compatible.
@@ -22,7 +27,7 @@
 - Ram & Cpu Usage (Low).
 - Fixed Bugs.
 
- ### Update v3.2 :
+ ### Update v3.2 (Latest) :
 - UAM Bypass Challenge Improvement.
 - RPS Power Improvement.
 - New Ui / Display.
