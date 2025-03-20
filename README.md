@@ -4,7 +4,7 @@
  MegaMedusa is NodeJS DDoS Machine Layer-7 provided by RipperSec Team.
 
 ### - Refference : 
-https://t.me/MegaMedusaLog
+https://discord.gg/UWdDE73tyD
  
 ### - MegaMedusa Security Bypass :
 - HTTP Bypass
